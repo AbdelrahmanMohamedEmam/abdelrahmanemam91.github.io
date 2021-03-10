@@ -1,0 +1,21 @@
+{
+    "order_your_version_now":"أطلب نسختك الان",
+    "name":"الاسم",
+    "email":"البريد الالكتروني",
+    "mobile_number":"الهاتف المحمول",
+    "address":"العنوان",
+    "city":"المدينة",
+    "cairo":"القاهرة",
+    "giza":"الجيزة",
+    "quantity":"الكمية",
+    "order":"أطلب",
+    "please_enter_your_name":"الرجاء ادخال اسمك",
+    "please_enter_a_valid_email_address":"الرجاء ادخال بريد الكتروني صحيح",
+    "please_enter_a_valid_mobile_number":"الرجاء ادخال رقم هاتف صحيح",
+    "please_enter_an_address":"الرجاء ادخال عنوان",
+    "price": "السعر:",
+    "package_type":"النسخة",
+    "standard":"Standard",
+    "deluxe":"Deluxe"
+
+}

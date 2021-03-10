@@ -1,0 +1,20 @@
+{
+    "order_your_version_now":"ORDER YOUR VERSION NOW",
+    "name":"Name",
+    "email":"Email",
+    "mobile_number":"Mobile Number",
+    "address":"Address",
+    "city":"City",
+    "cairo":"Cairo",
+    "giza":"Giza",
+    "quantity":"Quantity",
+    "order":"Order",
+    "please_enter_your_name":"Please enter your Name.",
+    "please_enter_a_valid_email_address":"Please enter a valid Email Address.",
+    "please_enter_a_valid_mobile_number":"Please enter a valid Mobile Number.",
+    "please_enter_an_address":"Please enter an address.",
+    "price":"Price: ",
+    "package_type":"Package Type",
+    "standard":"Standard",
+    "deluxe":"Deluxe"
+}
