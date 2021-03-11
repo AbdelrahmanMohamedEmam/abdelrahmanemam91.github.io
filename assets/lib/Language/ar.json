@@ -16,6 +16,10 @@
     "price": "السعر:",
     "package_type":"النسخة",
     "standard":"Standard",
-    "deluxe":"Deluxe"
-
+    "deluxe":"Deluxe",
+    "success":"تم",
+    "an_error_occured":"خطأ",
+    "order_requested":"تم تقديم طلبك",
+    "something_went_wrong_please_try_again_later!!":"حدث خطأ برجاء المحاولة مره أخري",
+    "okay":"نعم"
 }

@@ -16,5 +16,10 @@
     "price":"Price: ",
     "package_type":"Package Type",
     "standard":"Standard",
-    "deluxe":"Deluxe"
+    "deluxe":"Deluxe",
+    "success":"Success",
+    "an_error_occured":"An error occured",
+    "order_requested":"Order requested",
+    "something_went_wrong_please_try_again_later!!":"Something went wrong please try again later!!",
+    "okay":"Okay"
 }
